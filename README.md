@@ -26,4 +26,9 @@ Performance Metrics: MS Excel and Basic count , sum and VLOOKUP formulas.
 
 ![image](https://github.com/harshvardhan0303/Hospitality-Domain/assets/91109131/5295a585-54e4-418e-904a-fffa4cfab112)
 
+## Results
+
+1 - Home Page - This is the home page of our report, which includes the three icons Revenue, Sales and Info. When you click on the Revenue icon you will be directed to the Revenue page which is nothing but the Level 1 metrics, and on clicking on the Sales icon you will be directed to the sales page which includes the info about the sales of hotels in summer season, this is Level 2 metrics generally used by the Sales team of the Hotel Ramada Grands. One more icon we have which contains the details about the report it is nothing but the info section of our visual report. 
+
+![image](https://github.com/harshvardhan0303/Hospitality-Domain/assets/91109131/f3cf1bff-3c1d-444a-91c6-7dd40f27a6c7)
 
