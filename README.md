@@ -32,3 +32,8 @@ Performance Metrics: MS Excel and Basic count , sum and VLOOKUP formulas.
 
 ![image](https://github.com/harshvardhan0303/Hospitality-Domain/assets/91109131/f3cf1bff-3c1d-444a-91c6-7dd40f27a6c7)
 
+2 - Revenue Insights(Level 1 metrics) - This is basically for the people of organisation who wants to see the revenue related data. At the bottom of the dashboard we have also added the full form of the terms used in Hotel business like RevPar , ADR etc. This will help the viewer in clearly understanding the dashboard.
+
+![image](https://github.com/harshvardhan0303/Hospitality-Domain/assets/91109131/a4b695f6-a773-43a8-b221-4d68a21f8020)
+
+3 - Sales Insights(Level 2 metrics) - 
