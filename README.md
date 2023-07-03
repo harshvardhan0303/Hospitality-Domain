@@ -40,3 +40,6 @@ Performance Metrics: MS Excel and Basic count , sum and VLOOKUP formulas.
 
 ![image](https://github.com/harshvardhan0303/Hospitality-Domain/assets/91109131/0b0c96ab-b8e8-4de5-a5e7-a801b0d6b058)
 
+4 - Info Page - This page describes the info about this visula report like when this report is going to refresh and many more details.
+
+![image](https://github.com/harshvardhan0303/Hospitality-Domain/assets/91109131/fa05b22f-6326-4fb7-a35d-337d9b427235)
