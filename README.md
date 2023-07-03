@@ -24,5 +24,6 @@ Performance Metrics: MS Excel and Basic count , sum and VLOOKUP formulas.
 
 ## Project Architecture
 
-![image](https://github.com/harshvardhan0303/Hospitality-Domain/assets/91109131/3ac51f30-6397-4085-941f-de1da03f820f)
+![image](https://github.com/harshvardhan0303/Hospitality-Domain/assets/91109131/5295a585-54e4-418e-904a-fffa4cfab112)
+
 
