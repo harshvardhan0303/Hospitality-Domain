@@ -15,4 +15,14 @@ This dashboard report consists of 4 pages -
 
 4 - Info Page (Basic information about the visual report is given here)
 
+## Tech Stack
+Visualisation: Power BI
+
+Dependencies: MS Excel , DAX and M language for creating measures. 
+
+Performance Metrics: MS Excel and Basic count , sum and VLOOKUP formulas.
+
+## Project Architecture
+
+![image](https://github.com/harshvardhan0303/Hospitality-Domain/assets/91109131/3ac51f30-6397-4085-941f-de1da03f820f)
 
