@@ -1,4 +1,4 @@
-# Booking and Revenue Insights for Hotel in Summer season.
+# Booking and Revenue Insights for Hotel in Summer Season.
 
 ## Problem Statement
 Ramada Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Ramada Grands are losing its market share and revenue in the luxury/business hotels category. So, they want a report in form of visuals which can describe why they are loosing market to regain their market share and revenue. 
@@ -36,4 +36,7 @@ Performance Metrics: MS Excel and Basic count , sum and VLOOKUP formulas.
 
 ![image](https://github.com/harshvardhan0303/Hospitality-Domain/assets/91109131/a4b695f6-a773-43a8-b221-4d68a21f8020)
 
-3 - Sales Insights(Level 2 metrics) - 
+3 - Sales Insights(Level 2 metrics) - This is created for the sales team and the manager to have the view on the booking of the hotel in the summer season. Through this dashboard, the manager can take important decisions like discount on hotel bookings on those properties which are receiving less bookings, he/She may also be able to identify the trend of booking on any particular hotel, so that more money and revenue can be generated.
+
+![image](https://github.com/harshvardhan0303/Hospitality-Domain/assets/91109131/0b0c96ab-b8e8-4de5-a5e7-a801b0d6b058)
+
